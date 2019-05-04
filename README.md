@@ -9,10 +9,10 @@ En el taller de primeface se revisara una aplicación web  que permita mantenimi
 
 Para la construcción de la aplicación web se utilizo
 
-* JSF - Servidor de Aplicaciones donde se desplegar el aplicativo Visor
-* Primefaces - Servidor de Aplicaciones donde se desplegar el aplicativo Visor
-* JPA - Servidor de Aplicaciones donde se desplegar el aplicativo Visor
-* Wildfly - Servidor de Aplicaciones donde se desplegar el aplicativo Visor
+* JSF - Java Server Faces.  
+* Primefaces - Biblioteca de componentes.
+* JPA - Java Persistence API
+* Wildfly - Servidor de Aplicaciones.
 * JDK 8 - Java Development Kit
 * Maven - Gestor de dependencias
 
