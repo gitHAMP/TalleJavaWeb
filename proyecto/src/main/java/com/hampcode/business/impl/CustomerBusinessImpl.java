@@ -29,7 +29,7 @@ public class CustomerBusinessImpl implements ICustomerBusiness, Serializable {
 	@Transactional
 	@Override
 	public Integer update(Customer t) throws Exception {
-		return customerRepository.delete(t);
+		return customerRepository.update(t);
 	}
 
 	@Transactional
